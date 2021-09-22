@@ -8,3 +8,7 @@ Political conversations, whether online or in person, are networked along multip
 ### Presenter
 
 Sarah Shugars is a computational political scientist, studying American political behavior and developing new methods in natural language processing, network analysis, and machine learning.
+
+### Workshop Materials
+
+The workshop materials are available [here](https://www.dropbox.com/sh/ko8w8sy3w8s63re/AABnljNudnw66FQ3WHo4DXvia?dl=0).
